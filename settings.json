@@ -1,0 +1,28 @@
+{
+    "workbench.colorTheme": "Horizon",
+    "editor.fontSize": 13.4,
+    "editor.lineHeight": 15,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "window.zoomLevel": 0,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.formatOnSave": true,
+    "editor.rulers": [
+        110,
+        120
+    ],
+    "editor.tabSize": 2,
+    "editor.renderLineHighlight": "gutter",
+    "terminal.integrated.fontSize": 14,
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx"
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "breadcrumbs.enabled": true,
+    "editor.parameterHints.enabled": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "sync.gist": "5b89a6475cc43f03ff6781af1b5958e3"
+}
