@@ -5,5 +5,4 @@
   <li><a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme" target="_blank">Material Icon Theme</a></li>
   <li><a href="https://github.com/tonsky/FiraCode" target="_blank" >FiraCode</a></li>
 </ul>
-
 <img src="img/settings.png">
