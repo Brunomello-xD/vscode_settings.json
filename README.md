@@ -6,3 +6,9 @@
   <li><a href="https://github.com/tonsky/FiraCode" target="_blank" >FiraCode</a></li>
 </ul>
 <img src="img/settings.png">
+<h2>Instalação:</h2>
+<ul>
+  <li><b>Windows:</b></li> <var>%APPDATA%\Code\User\settings.json</var>
+  <li><b>macOS:</b></li> <var>$HOME/Library/Application Support/Code/User/settings.json</var>
+  <li><b>Linux:</b></li> <var>$HOME/.config/Code/User/settings.json</var>
+<ul>
