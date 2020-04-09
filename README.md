@@ -6,7 +6,6 @@
   <li><a href="https://github.com/tonsky/FiraCode" target="_blank" >FiraCode</a></li>
   <li><a href="https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight" target="_blank">Color Highlight</a></li>
   <li><a href="https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets" target="_blank">Rainbow Brackets</a></li>
-  <li><a href="https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer" target="_blank">Bracket Pair Colorizer</a></li>
   <li><a href="https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2" target="_blank">Bracket Pair Colorizer 2</a></li>
 </ul>
 <img src="img/PrntScr.png">
