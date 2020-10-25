@@ -1,14 +1,14 @@
 <h1>Visual Studio Code</h1>
 <h2>Pré-requisitos:</h2>
 <ul>
-  <li><a href="https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme" target="_blank" >Material Theme Ocean High Contrast</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=rocketseat.theme-omni" target="_blank" >Omni</a></li>
   <li><a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme" target="_blank">Material Icon Theme</a></li>
-  <li><a href="https://github.com/tonsky/FiraCode" target="_blank" >FiraCode</a></li>
   <li><a href="https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight" target="_blank">Color Highlight</a></li>
   <li><a href="https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets" target="_blank">Rainbow Brackets</a></li>
   <li><a href="https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2" target="_blank">Bracket Pair Colorizer 2</a></li>
+  <li><a href="https://github.com/tonsky/FiraCode" target="_blank" >FiraCode</a></ul>
 </ul>
-<img src="img/Screenshot.png">
+<img src="img/screenshot.png">
 <h2>Instalação:</h2>
 <ul>
   <li><b>Windows:</b></li> <var>%APPDATA%\Code\User\settings.json</var>
