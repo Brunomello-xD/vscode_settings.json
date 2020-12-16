@@ -8,7 +8,11 @@
   <li><a href="https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2" target="_blank">Bracket Pair Colorizer 2</a></li>
   <li><a href="https://github.com/tonsky/FiraCode" target="_blank" >FiraCode</a></ul>
 </ul>
-<img src="img/vscode.png">
+
+<p align="center">
+  <img src="img/vscode.png">
+</p>
+
 <h2>Instalação:</h2>
 <ul>
   <li><b>Windows:</b></li> <var>%APPDATA%\Code\User\settings.json</var>
